@@ -8,6 +8,10 @@ An interactive Power BI dashboard project built to analyze PhonePe transactions,
 The goal of this project is to perform end-to-end data analysis on PhonePe transaction data and generate meaningful business insights using Power BI.
 
 ---
+## 📥 Download Dashboard File
+Due to GitHub file size limitations, the Power BI (.pbix) file is available here:
+
+[Download PBIX File](https://drive.google.com/file/d/1PseN4RXHMDJEpSGQXX0gLYBJOx1TEZKd/view?usp=sharing)
 
 ## 📌 Dashboard Modules
 ### 🏠 Home Dashboard
